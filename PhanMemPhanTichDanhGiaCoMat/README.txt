@@ -1,8 +1,9 @@
 Thư mục này chứa phần mềm.
 Các sử dụng của chương trình như sau:
 1. Download tập tin được lưu trong gói này về máy tính lưu vào một thư mục, ví dụ thư mục A;
-2. Download dataset của hệ thống được lưu ở đường dẫn sau: [Link] và giải nén trực tiếp vào thư mục A. Không 
-được giải nén vào một thư mục khác trong thư mục A.
+2. Download dataset của hệ thống được lưu ở đường dẫn sau: 
+[https://drive.google.com/file/d/1z5tHaJYSstydIL5Q797ijn6IuNDuUnUs/view?usp=sharing] 
+và giải nén trực tiếp vào thư mục A. Không được giải nén vào một thư mục khác trong thư mục A.
 3. Cài đặt Python 3.7.0 theo đường dẫn sau đây: https://www.python.org/downloads/release/python-370/
 4. Sau khi cài đặt Python 3.7.0, các phần mềm và phiên bản tương ứng sau đây phải được cài đặt:
 	- mediapipe
